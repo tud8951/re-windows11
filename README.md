@@ -23,3 +23,4 @@
 8. [机场推荐-红杏云](https://hongxingdl.com/web/#/dashboard)
 9. [osu!](https://osu.ppy.sh/)
 10. [Git](https://git-scm.com/install/windows)
+11. [Node.js](https://nodejs.org/zh-cn/download)
