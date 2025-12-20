@@ -10,3 +10,16 @@
 8. [【Github问题解决】解决Github：fatal:unable to access ‘https://github.com/.../.git‘:Could not resolve host:git](https://blog.csdn.net/m0_72594605/article/details/132559545)
 9. [git设置、查看、取消代理](https://blog.csdn.net/weimeibuqieryu/article/details/106793645)
 10. [hexo博客添加标签、分类、归档、关于等页面](https://blog.csdn.net/nineya_com/article/details/103322773)
+
+# 常用软件
+
+1. [网易云音乐](https://music.163.com/)
+2. [QQ音乐](https://y.qq.com)
+3. [微信](https://weixin.qq.com/)
+4. [QQ](https://im.qq.com/index/)
+5. [Clash](https://app.bigjackson.top/)
+6. [V2Ray](https://app.bigjackson.top/)
+7. [Chrome](https://www.google.cn/chrome/)
+8. [机场推荐-红杏云](https://hongxingdl.com/web/#/dashboard)
+9. [osu!](https://osu.ppy.sh/)
+10. [Git](https://git-scm.com/install/windows)
