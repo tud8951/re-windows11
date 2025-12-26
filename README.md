@@ -24,3 +24,7 @@
 9. [osu!](https://osu.ppy.sh/)
 10. [Git](https://git-scm.com/install/windows)
 11. [Node.js](https://nodejs.org/zh-cn/download)
+
+# 常用代码
+
+npm install -g wrangler
