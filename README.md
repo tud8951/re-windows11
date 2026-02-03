@@ -25,6 +25,8 @@
 9. [osu!](https://osu.ppy.sh/)
 10. [Git](https://git-scm.com/install/windows)
 11. [Node.js](https://nodejs.org/zh-cn/download)
+13. [animeko免费看番](https://github.com/open-ani/animeko/)
+14. [Kazumi](https://github.com/Predidit/Kazumi)
 
 # 油猴脚本
 1. [百度网盘解析](https://github.com/hmjz100/LinkSwift)
