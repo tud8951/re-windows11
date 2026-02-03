@@ -29,6 +29,7 @@
 # 油猴脚本
 1. [百度网盘解析](https://github.com/hmjz100/LinkSwift)
 2. [MIdishow下载脚本](https://github.com/A-Archives-and-Forks/MidishowCrack)
+3. [Niconico汉化](https://github.com/TC999/niconico-chinese)
 
 # 常用代码
 
