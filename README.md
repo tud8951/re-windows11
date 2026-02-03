@@ -26,6 +26,10 @@
 10. [Git](https://git-scm.com/install/windows)
 11. [Node.js](https://nodejs.org/zh-cn/download)
 
+# 油猴脚本
+1. [百度网盘解析](https://github.com/hmjz100/LinkSwift)
+2. [MIdishow下载脚本](https://github.com/A-Archives-and-Forks/MidishowCrack)
+
 # 常用代码
 
 npm install -g wrangler
