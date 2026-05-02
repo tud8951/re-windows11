@@ -29,6 +29,10 @@
 11. [Node.js](https://nodejs.org/zh-cn/download)
 13. [animeko免费看番](https://github.com/open-ani/animeko/)
 14. [Kazumi](https://github.com/Predidit/Kazumi)
+15. [VSCode](https://code.visualstudio.com/Download)
+16. [TraeAI](https://www.trae.ai/)
+17. [iflow](https://platform.iflow.cn/)
+18. [Telegram](https://telegram.org/)
 
 # 油猴脚本
 1. [百度网盘解析](https://github.com/hmjz100/LinkSwift)
