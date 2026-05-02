@@ -40,6 +40,13 @@
 2. [MIdishow下载脚本](https://github.com/A-Archives-and-Forks/MidishowCrack)
 3. [Niconico汉化](https://github.com/TC999/niconico-chinese)
 
+# VSCode插件
+1. [Chinese (Simplified) (简体中文)](#)
+2. [Live Server](#)
+3. [Markdown Preview](#)
+4. [background](#)
+5. 
+
 # 常用代码
 
 npm install -g wrangler
