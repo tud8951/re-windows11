@@ -13,6 +13,7 @@
 11. [Windows11 Store应用商店下载的软件，怎么创建快捷方式](https://blog.csdn.net/sD7O95O/article/details/128541276)
 12. [【Vercel】Vercel静态部署踩坑](https://blog.csdn.net/wzyleix97/article/details/142950306)
 13. [Win10/Win11关闭打开应用时弹出"打开文件-安全警告"弹框](https://zhuanlan.zhihu.com/p/696978582)
+14. [VSCode插件background配置教程](https://github.com/shalldie/vscode-background/blob/HEAD/README.zh-CN.md)
 
 # 常用软件
 
