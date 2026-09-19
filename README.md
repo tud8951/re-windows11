@@ -24,7 +24,7 @@
 5. [Clash](https://app.bigjackson.top/)
 6. [V2Ray](https://app.bigjackson.top/)
 7. [Chrome](https://www.google.cn/chrome/)
-8. [机场推荐-红杏云](https://hongxingdl.com/web/#/dashboard)
+8. [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
 9. [osu!](https://osu.ppy.sh/)
 10. [Git](https://git-scm.com/install/windows)
 11. [Node.js](https://nodejs.org/zh-cn/download)
