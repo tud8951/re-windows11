@@ -36,6 +36,9 @@
 18. [Telegram](https://telegram.org/)
 19. [Renpy](https://www.renpy.org/)
 20. [Python](https://www.python.org/)
+21. [夸克](https://www.quark.cn/)
+22. [BandicamPortable](#)
+23. [剪映Pro](#)
 
 # 油猴脚本
 1. [百度网盘解析](https://github.com/hmjz100/LinkSwift)
