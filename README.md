@@ -52,6 +52,9 @@
 4. [background](#)
 5. [Renpy](#)
 
+# 游戏补丁
+1. [看门狗2闪屏补丁](https://github.com/doitsujin/dxvk)
+
 # 常用代码
 
 npm install -g wrangler
